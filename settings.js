@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 //BOT SETTINGS//
 global.xprefix = '.'
-global.ownername = 'ElitePro'
+global.ownername = 'drewzulex'
 global.botname = 'ELITE-PRO-V2'
 global.ytname = "YT: EliteProTechs"
 global.socialm = "GitHub: EliteProTech"
 global.location = "Port Harcourt, Nigeria"
-global.ownernumber = '2348109263390'
+global.ownernumber = '263785785040'
 
 //BOT SETTINGS 2//
 global.premium = ["2348109263390"] //Premium 
@@ -30,7 +30,7 @@ global.autoblocknumber = '92' //autoblock country
 global.antiforeignnumber = '91' //anti foreign number
 // TOGGLE CMDS: Enable=true Disable=false
 global.welcome = false //welcome/left in groups
-global.anticall = false //blocks user that call
+global.anticall = true //blocks user that call
 global.autoswview = false // view status
 global.adminevent = false //show promote/demote mess
 global.groupevent = false //show update messages in group chat
